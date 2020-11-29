@@ -9,7 +9,7 @@ This command changes the head. It records or snapshots the file permanently in t
 Git commit -a :-
 This command commits any files added in the repository with git add and also commits any files you've changed since then.
 git add . :-
-git diff :-
+
 	checks tracked file , if there is any modification 
 git rm --cached <file> :-
 	used to unstage file.
